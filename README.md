@@ -29,7 +29,7 @@ Criar uma aplicação simples e funcional que permita ao usuário organizar suas
 - Renderização dinâmica de elementos
 
 ## 🌐 Projeto online
-🔗 https://lista-tarfas.netlify.app/
+🔗 https://deividlt051.github.io/To-Do-List/
 
 ## 👨‍💻 Autor
 Deivid Laguna
